@@ -22,6 +22,9 @@ For each phase, the program reports start and end time, average velocity, maximu
 
 The project demonstrates real-world applications of physics and biomechanics by analyzing sprint motion, including acceleration, maximum velocity, and deceleration phases. The dataset from Usain Bolt's 100m world record is included for demonstration along with Michael Frater's 100m sprint for comparison.
 
+
+
+
 ---
 
 ## How to Run the Program
@@ -138,27 +141,6 @@ The program was tested using multiple datasets, including:
 
 These tests ensure the program behaves correctly and does not crash when given invalid input.
 
----
-
-## Grader Testing
-
-Graders may test the program by providing valid and invalid CSV files. The program is designed to handle incorrect or incomplete input gracefully by displaying clear error messages instead of crashing.
-
-Graders may also test both program modes:
-
-- Analyze one sprint file
-- Compare two sprint files
-
----
-
-## Files Included
-
-```text
-sprint_analyzer.py -> Main Python program
-requirements.txt -> Required Python libraries
-data/ -> Valid datasets
-test_data/ -> Files for testing edge cases
-```
 
 ---
 
