@@ -1,10 +1,7 @@
 # Sprint Performance Data Analyzer
 
 
-A Python and browser-based application for analyzing sprint performance from time-distance CSV data.
-
-The project calculates velocity, acceleration, sprint-phase metrics, and comparative sprint profiles to explore sprint mechanics and human performance.
-
+A Python and browser-based application for analyzing sprint performance from time-distance data, with a focus on velocity, acceleration, movement phases, and human-performance analysis.
 ---
 
 ## Description
