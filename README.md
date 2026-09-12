@@ -1,6 +1,5 @@
 # Sprint Performance Data Analyzer
 
-By: Cleo Bridge
 
 A Python and browser-based application for analyzing sprint performance from time-distance CSV data.
 
