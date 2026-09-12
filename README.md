@@ -22,6 +22,13 @@ For each phase, the program reports start and end time, average velocity, maximu
 
 The project demonstrates real-world applications of physics and biomechanics by analyzing sprint motion, including acceleration, maximum velocity, and deceleration phases. The dataset from Usain Bolt's 100m world record is included for demonstration along with Michael Frater's 100m sprint for comparison.
 
+---
+
+Example of Graphs Produced
+
+<img width="640" height="480" alt="real_bolt_100m_vs_real_frater_100m_acceleration_comparison" src="https://github.com/user-attachments/assets/056a9cf7-8825-4f00-8bcb-eb0f3fd8818b" />
+
+
 
 
 
